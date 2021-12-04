@@ -1,0 +1,13 @@
+Good day
+
+For this software, it's important that you run the code sequentially.
+
+The LinkToDataset.txt file has the dataset name and link. For my data science
+project you will need to mount a drive of your own. Make sure you add the
+dataset provided to your own google drive. 
+
+Note that results you get will be different than the results in my
+report because we are using machine learning classifiers and batches
+of different samples are fed to each model.
+
+Thank you for reading

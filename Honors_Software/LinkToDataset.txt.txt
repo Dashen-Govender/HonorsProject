@@ -1,0 +1,7 @@
+I used the WISDM_ar_latest dataset.
+
+This is the link to it on my google drive:
+https://drive.google.com/drive/folders/1EgaYBKEsngYu8wuxaHFNO_uguX_DEaNA?usp=sharing
+
+The dataset has information about.
+The raw accelerometer data is stored in WISDM_ar_v1.1_raw.txt
